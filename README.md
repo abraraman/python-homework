@@ -1,1 +1,1 @@
-# PyBank Homework path: python-homework/PyBank/main.ipynb
+# PyBank Homework Path: python-homework/PyBank/main.ipynb
